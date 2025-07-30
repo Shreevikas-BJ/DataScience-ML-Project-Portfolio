@@ -15,20 +15,20 @@ AI-powered chatbot that answers health-related queries by retrieving answers fro
 ### 🏠 House Price Predictor
 XGBoost regression model predicting house prices based on real-world housing features. Includes data cleaning, feature engineering, and RMSE evaluation.
 
+### 📉 Customer_Churn_Prediction
+Logistic regression model to predict telecom customer churn using demographic and usage data. Includes EDA, feature encoding, model evaluation, and accuracy metrics.
+
 ### 💬 Sentiment Analysis
 Streamlit-based app that classifies movie reviews into sentiment categories using a fine-tuned BERT model. Built with Hugging Face Transformers and PyTorch.
+
+### 📈 NVIDIA Stock Analysis
+Time-series and volatility modeling on NVIDIA stock using ARIMA, LSTM, and GARCH to uncover seasonality, predict trends, and assess risk.
 
 ### ☁️ CityWeather
 A web app that fetches and displays real-time weather data using API integrations — built with a focus on clean UI and API handling.
 
 ### 💉 Covid19_Vaccination_Analysis_in_SQL
 Performed SQL-based analysis on COVID-19 vaccination datasets to extract insights and trends from global vaccination campaigns.
-
-### 📉 Customer_Churn_Prediction
-Logistic regression model to predict telecom customer churn using demographic and usage data. Includes EDA, feature encoding, model evaluation, and accuracy metrics.
-
-### 📈 NVIDIA Stock Analysis
-Time-series and volatility modeling on NVIDIA stock using ARIMA, LSTM, and GARCH to uncover seasonality, predict trends, and assess risk.
 
 ### 🌿 PowerBI_Plant_Co
 Created a Power BI dashboard to visualize operational and sales metrics of a fictional plant company for actionable business insights.
