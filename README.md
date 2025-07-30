@@ -9,6 +9,15 @@ Each folder here reflects a part of my journey — tackling real-world problems,
 
 ## 🗂️ Projects Included
 
+### 🩺 Medical Chatbot (RAG + GPT-3.5)
+A Retrieval-Augmented Generation (RAG) based AI chatbot built using LangChain, FAISS, and OpenAI GPT-3.5, trained on real medical documents (CDC, WHO) for context-aware responses. Built with Streamlit.
+
+### 🏠 House Price Predictor
+Built a regression-based machine learning model using sklearn to predict house prices. Included outlier treatment, feature scaling, and model evaluation.
+
+### 💬 Sentiment Analysis
+Performed sentiment classification on text data (e.g., reviews or tweets) using NLP techniques and logistic regression. Visualized insights using WordClouds and charts.
+
 ### ☁️ CityWeather
 A web app that fetches and displays real-time weather data using API integrations — built with a focus on clean UI and API handling.
 
