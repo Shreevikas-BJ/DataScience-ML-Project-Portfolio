@@ -9,9 +9,8 @@ Each folder here reflects a part of my journey — tackling real-world problems,
 
 ## 🗂️ Projects Included
 
-### 🛠 IT Helpdesk Agent  
-Multi-model agentic pipeline combining PyTorch (DistilBERT), CrossEncoder reranking, LangChain+FAISS RAG, and Ollama reasoning to generate step-by-step troubleshooting with judge-verified safe execution.
-
+### 🛠 IT Helpdesk Agent   
+End-to-end agentic AI system built with PyTorch, LangChain, and LangGraph to classify IT tickets, retrieve evidence, plan fixes with Ollama/GPT, and execute only safe commands after judge verification.
 
 ### 🩺 Medical Chatbot (RAG + GPT-3.5)
 AI-powered chatbot that answers health-related queries by retrieving answers from CDC and WHO documents using FAISS VectorStore. Falls back to GPT-3.5 when context is missing.
