@@ -3,7 +3,7 @@
 Welcome! 👋  
 This repository is a collection of diverse projects I've worked on with **genuine passion**, **a hunger to explore**, and **a deep willingness to learn**.
 
-Each folder here reflects a part of my journey — tackling real-world problems, exploring new technologies, and strengthening my skills across data science, analytics, web development, and more.
+Each folder here reflects a part of my journey - tackling real-world problems, exploring new technologies, and strengthening my skills across data science, analytics, web development, and more.
 
 ---
 
