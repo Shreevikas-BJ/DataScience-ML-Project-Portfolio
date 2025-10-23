@@ -3,11 +3,14 @@
 Welcome! 👋  
 This repository is a collection of diverse projects I've worked on with **genuine passion**, **a hunger to explore**, and **a deep willingness to learn**.
 
-Each folder here reflects a part of my journey - tackling real-world problems, exploring new technologies, and strengthening my skills across data science, analytics, web development, and more.
+💡 Each folder here reflects a part of my journey - building intelligent systems, optimizing deep learning models for real-time performance, and solving real-world problems through AI, machine learning, computer vision, and data analytics.
 
 ---
 
 ## 🗂️ Projects Included
+
+### 🎯 Real-Time Road Pothole Detection (YOLOv8m + TensorRT + Flask)
+Developed a real-time computer vision system to detect potholes from live and uploaded road videos — optimized for GPU inference using TensorRT and CUDA for deployment in automotive safety and smart road monitoring.
 
 ### 🛠 IT Helpdesk Agent   
 End-to-end agentic AI system built with PyTorch, LangChain, and LangGraph to classify IT tickets, retrieve evidence, plan fixes with Ollama/GPT, and execute only safe commands after judge verification.
