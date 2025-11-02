@@ -3,11 +3,11 @@
 Welcome! 👋  
 This repository is a collection of diverse projects I've worked on with **genuine passion**, **a hunger to explore**, and **a deep willingness to learn**.
 
-💡 Each folder here reflects a part of my journey - building intelligent systems, optimizing deep learning models for real-time performance, and solving real-world problems through AI, machine learning, computer vision, and data analytics.
+Each folder here reflects a part of my journey - building intelligent systems, optimizing deep learning models for real-time performance, and solving real-world problems through AI, machine learning, computer vision, and data analytics.
 
 ---
 
-## 🗂️ Projects Included
+## Projects Included
 
 ### 🎯 Real-Time Road Pothole Detection (YOLOv8m + TensorRT + Flask)
 Developed a real-time computer vision system to detect potholes from live and uploaded road videos - optimized for GPU inference using TensorRT and CUDA for deployment in automotive safety and smart road monitoring.
@@ -31,7 +31,7 @@ Streamlit-based app that classifies movie reviews into sentiment categories usin
 Time-series and volatility modeling on NVIDIA stock using ARIMA, LSTM, and GARCH to uncover seasonality, predict trends, and assess risk.
 
 ### ☁️ CityWeather
-A web app that fetches and displays real-time weather data using API integrations — built with a focus on clean UI and API handling.
+A web app that fetches and displays real-time weather data using API integrations, built with a focus on clean UI and API handling.
 
 ### 💉 Covid19_Vaccination_Analysis_in_SQL
 Performed SQL-based analysis on COVID-19 vaccination datasets to extract insights and trends from global vaccination campaigns.
@@ -43,14 +43,14 @@ Created a Power BI dashboard to visualize operational and sales metrics of a fic
 A GUI-based calculator developed using Tkinter in Python — handles both basic and scientific operations.
 
 ### 📊 Google Data Analytics Capstone - Cyclistic Case Study
-A complete end-to-end case study applying the Google Data Analytics Certificate methodology — analyzed bike-share data to provide strategic recommendations.
+A complete end-to-end case study applying the Google Data Analytics Certificate methodology, analyzed bike-share data to provide strategic recommendations.
 
 ### 💰 Cryptotracker
 Built a cryptocurrency price tracker that pulls real-time data from APIs to monitor current prices, market caps, and trends.
 
 ---
 
-## 🌟 What This Repository Represents
+## What This Repository Represents
 - 🔨 Practical, hands-on experience working with real-world datasets and challenges
 - 📚 Continuous learning in Python, SQL, Power BI, LangChain, and AI tools
 - 🧠 Applied problem-solving mindset focused on building scalable, impactful, and intelligent solutions
@@ -59,7 +59,7 @@ Built a cryptocurrency price tracker that pulls real-time data from APIs to moni
 
 ---
 
-## 🙌 Let's Connect
+## Let's Connect
 
 Feel free to explore these folders, give feedback, or reach out if you're interested in collaboration or mentorship.
 
